@@ -1,0 +1,11 @@
+p{
+    color : red;
+    font-size: 20px;
+
+
+}
+#div1{
+    border: 1px solid rgb(225, 5, 5);
+    height: 400px;
+    width: 300px;
+}

@@ -1,0 +1,19 @@
+
+body {
+    width : 1500px;
+    height: 600px;
+    border: 1px solid rgb(255, 0, 0);
+    background-image: url(../img/橙色logo.png);
+    background-repeat: no-repeat;
+    background-position: 30px 200px;
+    background-color: orange;
+}
+#p1{
+    text-align: left;
+}
+#p2{
+    text-align: center;
+}
+#p3{
+    text-align: right;
+}

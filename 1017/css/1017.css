@@ -1,0 +1,48 @@
+body {
+    /*border: 1px solid rgb(233, 8, 8);*/
+}
+#d1 {
+ /*   border: 1px solid rgb(233, 8, 8);  */
+    background-color: salmon;
+    white-space: nowrap;
+}
+#d2 {
+  /*  border: 1px solid rgb(233, 8, 8);*/
+   /* height: 150px;*/
+    background-color: lightblue;
+}
+#d3 {
+  /*  border: 1px solid rgb(233, 8, 8);*/
+    height: 180px;
+    background-color: pink;
+}
+#d1 a {
+  /*  border: 1px solid rgb(233, 8, 8);*/
+    height: 80px;
+    display: inline-block;
+    width: 24.4%;
+    font-size: 30px;
+    text-align: center;
+    line-height: 80px;
+    letter-spacing: 10px;
+    text-decoration: none;
+}
+#d1 a:hover {
+  /*  border: 1px solid rgb(233, 8, 8);*/
+    background-color: royalblue;
+}
+#d3{
+    background-image: url(../img/橙色logo2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}
+#d2 div {
+ /*   border: 1px solid rgb(233, 8, 8);*/
+    width: 50%;px;
+    float: left;
+}
+#d23 {
+    clear: both;
+
+}

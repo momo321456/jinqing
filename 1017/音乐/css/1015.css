@@ -1,0 +1,43 @@
+body { border: 1px solid black;
+    background: linear-gradient(to right, rgb(83, 251, 100), rgb(144, 201, 232));}
+#d1 { height: 80px;
+    background-color: yellowgreen;
+}
+#d2 { 
+    background-color: lightblue;
+}
+#d3 { height: 450px;
+    background-color: lightcoral;
+    background-repeat: no-repeat; /* 可选：防止图像重复 */
+    background-image: url(../img/橙色logo.png);
+    background-position: center; /* 可选：使图像居中 */
+}
+#d1 a { 
+    height:  50px;
+    width:  24.3%;
+    display: inline-block;
+    font-size: 30px;
+    text-decoration: none;
+}
+#a1{
+     border-right: 3px solid rgb(49, 125, 82);
+    }
+    #a2{
+    border-right: 3px solid rgb(47, 141, 88);
+    }
+    #a3{
+     border-right: 3px solid rgb(45, 139, 86);
+    }
+    #d2 #d21{
+    background-color: chartreuse;
+    width: 50%;
+     
+    }
+    #d2 #d22{
+    background-color: rgb(200, 255, 0);
+    width: 50%;
+    
+    }
+    #d2 #d23{
+        clear: both;
+    }
